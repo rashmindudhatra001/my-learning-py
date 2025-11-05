@@ -1,2 +1,2 @@
 
-# my-learning-pythin
+# my-learning-python
