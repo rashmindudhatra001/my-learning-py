@@ -1,0 +1,7 @@
+
+n = int(input("Enter a number: "))
+
+for i in range (n):#loop for rows
+    for j in range (1 , n+1):#loop for columns
+        print(j , end = "")#to avoid new line after each print
+    print()#to move to next line after each row
