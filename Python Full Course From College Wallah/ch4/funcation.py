@@ -9,4 +9,4 @@ def sum_natural_numbers(n):
 
 
 output = sum_natural_numbers(n)
-print(f"The sum of natural numbers from 1 to {n} is: {output}")# Function Examples
+print(f"The sum of natural numbers from 1 to {n} is: {output}")# Function Examples ̰

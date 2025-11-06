@@ -25,15 +25,3 @@ print(frequencies)
 
 
 
-
-# 🧠 Hard Level
-
-# Write a program to implement a stack using a class (with push, pop, peek operations) and then use it to reverse a string.
-
-# Write a function to sort a list of integers using merge sort (implement from scratch, do not use built-in sort).
-
-# Given a directed graph represented as an adjacency list, write a function to perform Depth First Search (DFS) and Breadth First Search (BFS) from a given start node.
-
-# Write a function to solve the Knapsack Problem (0/1 knapsack) using dynamic programming.
-
-# Write a program that reads a large text file (say ~100 MB) and computes the top 10 most frequent words, ignoring case and punctuation.
